@@ -1,0 +1,13 @@
+.no-webp .inicio {
+    background-image: url(../img/encuentra.jpg);
+}
+
+.webp .inicio {
+    background-image: url(../img/encuentra.webp);
+}
+
+.imagen-contacto{
+    background-position: center center;
+    background-size: cover;
+    padding: $separacion 0;
+}
